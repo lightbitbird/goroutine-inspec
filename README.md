@@ -1,0 +1,2 @@
+# goroutine-inspec
+Inspecting goroutine
